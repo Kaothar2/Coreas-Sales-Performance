@@ -21,13 +21,18 @@ _**Disclaimer**_: _All datasets and reports do not represent any company, instit
 -  Page navigation,
 -  Modelling
 
+### Callender table:
+
+![](Calendar_Table.png)
+Created a calendar table with month, number and year to analyse sales in different months
+
  ## Modelling:
  Automatically derived relationships are adjusted to remove and replace unwanted relationships with the required.
 
 ![](Modelling.png)
 
 The model is a star schema
-There are 5-dimension tables and 1 fact table. The dimension tables are all joined to the fact table with one-to-many relationship. 
+There are 5-dimension tables and 1 fact table. The dimension tables are all joined to the fact table with one-to-many relationship.
 
 ## Visualization
 The report comprises 2 major pages
@@ -47,11 +52,9 @@ The total sales is $470.53k
 Profit Margin is 13.10%
 
 ### Monthly sales
-![]()
 The month of November has the highest sales of $75,972.😄
 
 ### Sales by region
-![]()
 The sales by region include east, west, central and south
 
 ### Demography performance:
@@ -72,6 +75,8 @@ Standard class is the most prefered ship mode
 - More Incentives should be created to improve more sales generally across the country
 - The quantity in stock of products with low sales performance should be reduced to provide capital for hot selling products & enable cash flow for business.
 - Also, the top performing products as visualized in the subcategory should be stocked more since they were mostly purchased.
+
+  
   
 
 
