@@ -23,7 +23,7 @@ _**Disclaimer**_: _All datasets and reports do not represent any company, instit
 
 ### Callender table:
 
-![](Calendar_Table.png)
+![](Calender_Table.png)
 Created a calendar table with month, number and year to analyse sales in different months
 
  ## Modelling:
