@@ -1,4 +1,4 @@
-# Coreas Sales Analysis
+# Coreas Sales Analysis using PBI
 
 ![](intro_image.jpg)
 ---
